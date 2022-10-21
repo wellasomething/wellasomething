@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @wellasomething
-- 👀 I’m interested in learning devops
 - 🌱 I’m currently learning html,css and linux
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me whatsapp +2348171196165, swella000@gmail.com
