@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wellasomething
-- 🌱 I’m currently learning html,css and linux
+- 🌱 I’m an frontend developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me whatsapp +2348171196165, swella000@gmail.com
 
